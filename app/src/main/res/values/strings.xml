@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CSVCompose101</string>
+    <string name="placeholder_search">Search</string>
+    <string name="back">back</string>
+    <string name="details">Details</string>
+    <string name="url_place_holder">https://live.staticflickr.com/65535/54180499019_36ba01473a_m.jpg</string>
+    <string name="share_image_information">Share Image information</string>
+    <string name="share">Share</string>
+</resources>
